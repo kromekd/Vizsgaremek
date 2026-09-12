@@ -1,8 +1,11 @@
 **Projektfeladat**
 
 A vizsgatevékenység megnevezése: Informatikai hálózat- és alkalmazás-üzemeltetés
+
 A vizsgatevékenység leírása:
+
 **A) Hálózattervezési és kivitelezési vizsgaremek**
+
 A vizsgázóknak minimum 2, maximum 3 fős informatikai rendszer- és alkalmazás-üzemeltető csapatot alkotva kell a vizsgát megelőzően egy komplex informatikai rendszerfejlesztési projektet megvalósítaniuk. A projekt egy valós vagy elképzelt vállalat hálózatának tervezését, a hálózat egy működő prototípusának gyakorlati kivitelezését, valamint a prototípus működésének tesztelését foglalja magában. A vizsgaremeknek az alábbi elvárásoknak kell megfelelni:
 
 - a hálózati infrastruktúrának legalább 3 telephelyet, vagy irodát kell lefednie 
