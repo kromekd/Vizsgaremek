@@ -1,4 +1,5 @@
 **Projektfeladat**
+
 A vizsgatevékenység megnevezése: Informatikai hálózat- és alkalmazás-üzemeltetés
 A vizsgatevékenység leírása:
 **A) Hálózattervezési és kivitelezési vizsgaremek**
